@@ -1,6 +1,6 @@
-### PITCHMETEST
+### 1ヶ月でTOEICスコアアップしちゃおうのお話
 
-サンプルです。
+うめ（@beConjuror）
 
 ---
 
