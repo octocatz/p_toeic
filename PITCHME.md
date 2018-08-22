@@ -1,6 +1,8 @@
 ### ほにゃららセッションリレー
 ## 1ヶ月でTOEICスコアアップしちゃおうのお話
-![alt](img/IMG_2415_round.png)
+
+<img src="img/IMG_2415_round.png" width="320px">
+
 うめ（@beConjuror）
 
 ---
