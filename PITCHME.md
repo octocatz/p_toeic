@@ -39,7 +39,7 @@
 
 ---
 
-### <img src="img/toeic_text1.jpg" width="220px">
+<img src="img/toeic_text1.jpg" width="220px">
 
 ---
 
