@@ -1,16 +1,15 @@
 ### ほにゃららセッションリレー
 ## 1ヶ月でTOEICスコアアップしちゃおうのお話
 
-<img src="img/IMG_2415_round.png" width="220px">
-
-うめ（@beConjuror）
 
 ---
 
 ### Who?
+
 - うめ(@beConjuror)
 - Work：ITSM/DevOpsとか@SIer9年目
 - Hot：トキワの森プロジェクト企画
+<img src="img/IMG_2415_round.png" width="220px">
 
 
 ---
