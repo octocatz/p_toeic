@@ -1,6 +1,6 @@
-### ほにゃららセッションリレー
+#### ほにゃららセッションリレー
 
-## 1ヶ月でTOEICスコアアップしちゃおう！
+### 1ヶ月でTOEICスコアアップしちゃおう！
 
 
 ---
@@ -9,7 +9,7 @@
 
 - うめ(@beConjuror)
 - Work：ITSM/DevOpsとかやってます@SIer9年目
-- Hot：#トキワの森プロジェク 企画・運営
+- Hot：[#トキワの森プロジェクト](https://twitter.com/tokiwaengineer) 企画・運営
 
 <img src="img/IMG_2415_round.png" width="220px">
 
@@ -106,7 +106,7 @@
 
 ### Thank you for listening!
 
-Presented by うめ(Twitter：@beConjuror)
+Presented by うめ(Twitter：[@beConjuror](https://twitter.com/beconjuror))
 
 
 
