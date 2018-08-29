@@ -8,9 +8,9 @@
 
 ### Who?
 
-- うめ([@beConjuror](https://twitter.com/beconjuror))
+- うめ
 - Work：ITSM/DevOpsとかやってます@SIer9年目
-- Hot：[#トキワの森プロジェクト](https://twitter.com/tokiwaengineer) 企画・運営
+- Hot：#トキワの森プロジェクト 企画・運営
 
 <img src="img/IMG_2415_round.png" width="220px">
 
@@ -101,7 +101,7 @@
 
 ### Thank you for listening!
 
-Presented by うめ(Twitter：[@beConjuror](https://twitter.com/beconjuror))
+Presented by うめ
 
 
 
